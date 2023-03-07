@@ -1,3 +1,4 @@
-[stefani pereira](https://user-images.githubusercontent.com/89918661/223517518-30e36d1f-feb7-42d0-a22f-e4788857d27a.png)
+
+![stefani pereira](https://user-images.githubusercontent.com/89918661/223517704-50dcd52f-681e-49eb-92b7-660adc9aa48f.png)
 
 Hello everyone!!
