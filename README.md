@@ -25,10 +25,6 @@
   <br><br>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stefiredwine&theme=tokyonight-duo&border_radius=5)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefiredwine&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
